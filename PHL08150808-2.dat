@@ -61,7 +61,7 @@ eeeeeeeeeeeeeeeeeeeeee1. PHdistance(plants, hubs) - The distance between plants 
 8          3                        49079.51560
 8          4                         9244.41934
 8          5                        15530.46567
-8          6                        46474.33494
+8          6                        46474.33494dddddddddddddddddddddd
 8          7                        22795.30270
 8          8                        50952.00511
 2. HHdistance(hubs1, hubs2) - The distance between hub1 and hub2.
